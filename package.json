@@ -1,10 +1,10 @@
 {
-  "name": "angular-mentions",
-  "version": "0.0.0",
+  "name": "angular-mentions-redlink",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build angular-mentions --prod",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
